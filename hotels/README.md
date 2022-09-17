@@ -1,0 +1,6 @@
+# Hotels
+
+Cette page liste les hotels de la région...
+- hotel 1
+- hotel 2
+- ...
