@@ -1,5 +1,7 @@
 # Mariage de Marie et Geoffroy
-Henri De Boutray
+
+Aller vers les [hotels](hotels)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in dui mauris. Suspendisse mattis leo egestas convallis laoreet. Aenean et ex tortor. Morbi eu tellus sit amet ipsum lobortis placerat rutrum in nulla. Nam hendrerit sed dolor eget pulvinar. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce posuere, mauris id consequat fermentum, purus dui bibendum ipsum, id ullamcorper est dolor ut lacus. Proin ultrices, ex sit amet fringilla vehicula, lacus odio sodales leo, a placerat dolor tellus non magna. Nulla sed nibh non nisl interdum efficitur. Aliquam nec mauris urna.
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi at tristique nulla. Donec urna dui, placerat dapibus gravida vitae, lacinia a lacus. Fusce ac nunc vulputate, lacinia ipsum et, sollicitudin lectus. Suspendisse porta mi tellus, varius condimentum mi ultricies et. Quisque eros odio, hendrerit eget arcu sit amet, accumsan suscipit ex. Donec aliquet leo id ornare varius. Sed ultricies pretium aliquam. Aliquam purus justo, pellentesque facilisis orci sit amet, sagittis porttitor neque. Proin lorem nisi, suscipit vel dignissim congue, condimentum sed nisi. Duis quis libero in sapien semper commodo eu vitae nibh. Praesent tristique facilisis pretium. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In elementum accumsan scelerisque. Vestibulum a fermentum tortor. Vivamus sed nunc ipsum.
