@@ -21,7 +21,7 @@ Si vous ne savez pas où vous loger, une liste a été faite pour vous.
 Trouvez votre [logement].
 
 # Liste de mariage
-Vous trouverez sur le site de notre  [liste de mariage](https://www.kadolog.com/fr/list/liste-de-mariage-marie-et-geoffroy)tout ce dont nous aurions envie et besoin pour notre nouvelle vie de jeunes mariés.
+Vous trouverez sur le site de notre  [liste de mariage](https://www.kadolog.com/fr/list/liste-de-mariage-marie-et-geoffroy)  tout ce dont nous aurions envie et besoin pour notre nouvelle vie de jeunes mariés.
 
 Vous pouvez participer sur l'intégralité ou une part du cadeau.
 
