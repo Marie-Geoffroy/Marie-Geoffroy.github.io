@@ -26,6 +26,6 @@ Vous trouverez sur le site de notre  [liste de mariage](https://www.kadolog.com/
 Vous pouvez participer sur l'intégralité ou une part du cadeau.
 
 # Autres informations
-En contre bas du château se trouve un étange, soyez vigilant !
+En contre bas du château se trouve un étang, soyez vigilant !
 
-Un endroit ainsi qu'une baby sitter sera à votre disposition à côté du château.
+Un endroit ainsi qu'une baby sitter seront à votre disposition à côté du château.
