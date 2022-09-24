@@ -21,11 +21,11 @@ Si vous ne savez pas où vous loger, une liste a été faite pour vous.
 #  Liste de mariage
 Vous trouvrez tout ce qui nous ferait plsisir pour notre nouvelle vie de jeunes mariés sur le site suivant : 
 >https://www.kadolog.com/fr/list/liste-de-mariage-marie-et-geoffroy
->Vous pouvez participer sur l'intéralité du cadeau ou juste une part.
+>  Vous pouvez participer sur l'intégralité ou une part du cadeau.
 
+#  Autres informations
 
-# autres informations
-En contrebas du château se trouve un étang, soyez vigilant !
-un endroit et un(e) babysitter seront à votre disposition.
+En contre bas du château se trouve un étange, soyez vigilant !
+>  un endroit ainsi qu'une baby sitter sera à votre disposition à côté du château.
 
 
