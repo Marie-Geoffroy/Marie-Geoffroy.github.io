@@ -1,10 +1,12 @@
 # Mariage de Marie et Geoffroy
 
 Bonjour à tous, 
+
 voici un site regroupant toutes les informations importantes concernant notre grand jour.
-Si vous avez des questions n'hésitez pas à nous demander directement.
-Le compte à rebours est lancé, 
-A très vite!
+
+ Si vous avez des questions n'hésitez pas à nous demander directement. 
+
+Le compte à rebours est lancé, A très vite!
 
 # Lieux du mariage
 La cérémonie religieuse se déroulera en l'église saint Armel, à Ploërmel.
