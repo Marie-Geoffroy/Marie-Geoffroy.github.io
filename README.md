@@ -21,6 +21,7 @@ Trouvez votre [logement].
 # Liste de mariage
 Vous trouvrez tout ce qui nous ferait plsisir pour notre nouvelle vie de jeunes mariés sur le site suivant :
 https://www.kadolog.com/fr/list/liste-de-mariage-marie-et-geoffroy 
+
 Vous pouvez participer sur l'intégralité ou une part du cadeau.
 
 # Autres informations
