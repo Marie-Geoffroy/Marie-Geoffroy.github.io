@@ -19,7 +19,7 @@ Nous vous accueillerons ensuite pour le coktail et la réception au château de 
 # Où dormir ?
 Si vous ne savez pas où vous loger, une liste a été faite pour vous.
 
-Trouvez votre [logement].
+Trouvez votre .
 
 # Liste de mariage
 Vous trouverez sur le site de notre  [liste de mariage](https://www.kadolog.com/fr/list/liste-de-mariage-marie-et-geoffroy)  tout ce dont nous aurions envie et besoin pour notre nouvelle vie de jeunes mariés.
