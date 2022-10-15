@@ -1,17 +1,17 @@
 ## HOTEL
 
-| Nom (étoiles)                     | Adresse                                     | Téléphone      | Site                                                        |
-|-----------------------------------|---------------------------------------------|----------------|-------------------------------------------------------------|
-| Brit Hotel de l'Hippodrome ***    | Rue Charles de Gaulle, 56800 PLOËRMEL       | 02 97 70 28 57 | https://ploermel.brithotel.fr/                              |
-| Hôtel Roi Arthur ****             | Le Lac au Duc, 56800 PLOËRMEL               | 02 97 73 64 64 | http://www.hotelroiarthur.com/                              |
-| Le Ludixarium **                  | 70 r Gare, 56800 PLOËRMEL                   | 02 97 74 05 32 | https://www.leludixarium.fr/                                |
-| Au Relais Du Porhoet**            | 11 pl Eglise, 56490 GUILLIERS               | 02 97 74 40 17 | http://aurelaisduporhoet.com/                               |
-| A L'orée De La Forêt              | 24 Rue Nationale 56800 CAMPENEAC            | 02 97 70 51 09 | https://www.oree-foret.fr/                                  |
-| Le Thy**                          | 8 BD Foch, 56800 PLOËRMEL                   | 02 97 74 05 21 | https://www.hotelploermel-lethy.com/                        |
-| Hôtel Restaurant Du Château ***   | 1, Rue Du Général De Gaulle, 56120 JOSSELIN | 02 97 22 20 11 | https://www.hotel-chateau.com/                              |
-| Résidence Lancelot****            | 1, Rue De La Fée Viviane, 56800 PLOËRMEL    | 02 97 73 64 64 | https://www.hotelroiarthur.com/residence-lancelot-ploermel/ |
-| LE COBH***                        | 10 r Forges, 56800 PLOËRMEL                 | 02 97 74 00 49 | https://www.hotel-lecobh.com/                               |
-| Hôtel Restaurant Le Saint Marc**  | 1 pl St Marc, 56800 PLOËRMEL                | 02 97 74 00 01 | http://hotel-restaurant-saintmarc.fr/                       |
+| Nom (étoiles)                      | Adresse                                     | Téléphone      | Site                                                        |
+|------------------------------------|---------------------------------------------|----------------|-------------------------------------------------------------|
+| Brit Hotel de l'Hippodrome \*\*\*  | Rue Charles de Gaulle, 56800 PLOËRMEL       | 02 97 70 28 57 | https://ploermel.brithotel.fr/                              |
+| Hôtel Roi Arthur \*\*\*\*          | Le Lac au Duc, 56800 PLOËRMEL               | 02 97 73 64 64 | http://www.hotelroiarthur.com/                              |
+| Le Ludixarium \*\*                 | 70 r Gare, 56800 PLOËRMEL                   | 02 97 74 05 32 | https://www.leludixarium.fr/                                |
+| Au Relais Du Porhoet\*\*           | 11 pl Eglise, 56490 GUILLIERS               | 02 97 74 40 17 | http://aurelaisduporhoet.com/                               |
+| A L'orée De La Forêt               | 24 Rue Nationale 56800 CAMPENEAC            | 02 97 70 51 09 | https://www.oree-foret.fr/                                  |
+| Le Thy\*\*                         | 8 BD Foch, 56800 PLOËRMEL                   | 02 97 74 05 21 | https://www.hotelploermel-lethy.com/                        |
+| Hôtel Restaurant Du Château \*\*\* | 1, Rue Du Général De Gaulle, 56120 JOSSELIN | 02 97 22 20 11 | https://www.hotel-chateau.com/                              |
+| Résidence Lancelot\*\*\*\*         | 1, Rue De La Fée Viviane, 56800 PLOËRMEL    | 02 97 73 64 64 | https://www.hotelroiarthur.com/residence-lancelot-ploermel/ |
+| LE COBH\*\*\*                      | 10 r Forges, 56800 PLOËRMEL                 | 02 97 74 00 49 | https://www.hotel-lecobh.com/                               |
+| Hôtel Restaurant Le Saint Marc\*\* | 1 pl St Marc, 56800 PLOËRMEL                | 02 97 74 00 01 | http://hotel-restaurant-saintmarc.fr/                       |
 
 
 ## Maisons d'hôtes
