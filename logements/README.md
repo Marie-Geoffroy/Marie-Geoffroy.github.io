@@ -1,4 +1,5 @@
-[HOTEL]
+## HOTEL
+
 | Nom (étoiles)                     | Adresse                                     | Téléphone      | Site                                                        |
 |-----------------------------------|---------------------------------------------|----------------|-------------------------------------------------------------|
 | Brit Hotel de l'Hippodrome ***    | Rue Charles de Gaulle, 56800 PLOËRMEL       | 02 97 70 28 57 | https://ploermel.brithotel.fr/                              |
@@ -13,7 +14,8 @@
 | Hôtel Restaurant Le Saint Marc**  | 1 pl St Marc, 56800 PLOËRMEL                | 02 97 74 00 01 | http://hotel-restaurant-saintmarc.fr/                       |
 
 
-[Maisons d'hôtes]
+## Maisons d'hôtes
+
 | Nom                           | Adresse                                                | Téléphone                       | Site                                             |
 |-------------------------------|--------------------------------------------------------|---------------------------------|--------------------------------------------------|
 | Manoir Desnachez              | 7 rue du Domaine, 56800 TAUPONT                        | 02 97 74 65 03                  | https://www.manoir-desnachez.com/                |
@@ -26,7 +28,8 @@
 | Manoir de Barbotin            | Rue de Pierre de Coubertin, 56800 Ploërmel, France     | 06 26 59 42 42                  | https://la5718.wixsite.com/manoir-de-barbotin/   |
 
    
-[Gîtes]
+## Gîtes
+
 | Nom                                                                   |
 |-----------------------------------------------------------------------|
 | Gîte de lambilly Lambilly, 56800 TAUPONT                              |
