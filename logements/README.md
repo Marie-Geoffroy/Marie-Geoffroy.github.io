@@ -1,4 +1,5 @@
 [HOTEL]
+| Nom                      | Adresse                                  | Téléphone       | Site                     |
 Brit Hotel de l'Hippodrome ***	Rue Charles de Gaulle, 56800 PLOËRMEL	02 97 70 28 57	https://ploermel.brithotel.fr/
 
 Hôtel Roi Arthur ****	Le Lac au Duc, 56800 PLOËRMEL	02 97 73 64 64	http://www.hotelroiarthur.com/
