@@ -2,7 +2,7 @@
 
 Bonjour à tous, 
 
-voici un site regroupant toutes les informations importantes concernant notre grand jour.
+voici un site regroupant toutes les informations importantes concernant notre grand jour le Samedi 19 août 2023.
 
  Si vous avez des questions n'hésitez pas à nous demander directement. 
 
