@@ -23,7 +23,7 @@ Si vous ne savez pas où vous loger, une liste a été faite pour vous.
 
 Trouvez votre [logement](logements).
 
-Il sera possible de dormir sous tente, van, camping-car ou en voiture sur le parking du château. Sur le parking il n'y a ni accès à l'eau ni à l'élécricité.
+Il sera possible de dormir sous tente, van, camping-car ou en voiture sur le parking du château. Sur le parking il n'y a ni accès à l'eau ni à l'éléctricité.
 
 
 ## Liste de mariage
@@ -34,5 +34,4 @@ Vous pouvez participer sur l'intégralité ou une part du cadeau.
 ## Autres informations
 En contre bas du château se trouve un étang, soyez vigilant !
 
-Une maisonnette tout équipée ainsi que des baby-sitters seront à votre disposition à proximité du château.
 
